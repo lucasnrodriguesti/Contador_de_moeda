@@ -1,1 +1,1 @@
-# Contador_de_moeda
+# Programa simples para contagem de suas moedas por unidade.
