@@ -6,6 +6,8 @@ Pra rodar este projeto na sua máquina por favor digite:
 
 '''
 install codeblocks
-abrir projeto .c
-executar
+
+abrir pasta de projeto
+
+executar (nome-de-projeto).c
 '''
