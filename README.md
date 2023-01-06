@@ -5,5 +5,7 @@
 Pra rodar este projeto na sua máquina por favor digite:
 
 '''
-npm install codeblocks
+install codeblocks
+abrir projeto .c
+executar
 '''
