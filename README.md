@@ -1,13 +1,15 @@
 # Programa simples para contagem de suas moedas por unidade.
 
-> Status do Projeto: Concluído
+> Status do Projeto: Concluído ✔️
 
-Pra rodar este projeto na sua máquina por favor digite:
+Pra rodar este projeto na sua máquina você precisará seguir esses passos: 🚶
 
 '''
-install codeblocks
+instalar codeblocks
 
 abrir pasta de projeto
 
 executar (nome-de-projeto).c
 '''
+
+---------------------------------------------------------
