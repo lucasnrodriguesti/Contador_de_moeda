@@ -1,4 +1,4 @@
-# Programa simples para contagem de suas moedas por unidade.
+# Contador simples
 
 > Status do Projeto: Concluído ✔️
 
